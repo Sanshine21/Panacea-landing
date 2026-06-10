@@ -1,0 +1,10 @@
+{
+  "enabledMcpjsonServers": [
+    "brave-search"
+  ],
+  "enableAllProjectMcpServers": true,
+
+   "permissions": {
+     "allow": []
+   }
+ }
